@@ -388,7 +388,7 @@ pip install praw kafka-python pyspark pymongo textblob vaderSentiment \
 Data Engineer | Big Data & Cloud  
 
 📧 zulham.va@gmail.com  
-🔗 [linkedin.com/in/ahmad-zulham-hamdan-665170279](https://linkedin.com/in/ahmad-zulham-hamdan-665170279)  
+🔗 [linkedin.com/in/ahmad-zulham-665170279](https://linkedin.com/in/ahmad-zulham-665170279)  
 🐙 [github.com/zulhamva-tech](https://github.com/zulhamva-tech)
 
 ---
